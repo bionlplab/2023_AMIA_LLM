@@ -1,3 +1,3 @@
-## ICHI'23 Workshop/Panel on Large Language Models: Opportunities and Challenges
+## AMIA 2023 Annual Symposium Panel on Large Language Models in Healthcare: Opportunities and Challenge
 
-https://bionlplab.github.io/2023_ichi_llm/
+https://bionlplab.github.io/2023_amia_llm
